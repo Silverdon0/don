@@ -7,6 +7,6 @@
 
 <script>
 export default {
-  // component logic
+
 };
 </script> 

@@ -9,4 +9,4 @@
 export default {
   // component logic
 };
-</script>
+</script>g

@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>About Pag=e</h1>
+    <h1>About Page</h1>
     <!-- Your home page content here -->
 
   </div>
